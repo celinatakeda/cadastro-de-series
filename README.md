@@ -8,9 +8,9 @@ Neste projeto foi criado um APP simples de cadastro de séries em .NET com o con
 
 **R**ead / Ler
 
-Update / Atualizar
+**U**pdate / Atualizar
 
-Delete / Excluir
+**D**elete / Excluir
 
 ## Criando o console
 
