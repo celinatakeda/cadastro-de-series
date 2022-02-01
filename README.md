@@ -1,6 +1,6 @@
 # Criando um APP simples de cadastro de séries em .NET
 
-CRUD
+## CRUD
 
 Create / Criar
 
@@ -10,10 +10,10 @@ Update / Atualizar
 
 Delete / Excluir
 
-Criando o console
+## Criando o console
 
 dotnet new console -n DIO.Series
 
-Abrir o projeto
+## Abrir o projeto
 
 code DIO.Series/
