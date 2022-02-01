@@ -2,9 +2,11 @@
 
 Neste projeto foi criado um APP simples de cadastro de séries em .NET com o conceito de CRUD
 
-Create / Criar
+## CRUD
 
-Read / Ler
+**C**reate / Criar
+
+**R**ead / Ler
 
 Update / Atualizar
 
