@@ -46,6 +46,8 @@ namespace Series
             int indiceSerie = int.Parse(Console.ReadLine());
 
             repositorio.Exclui(indiceSerie);
+
+            Console.WriteLine("Série Excluído!");
         }
 
         private static void VisualizarSerie()
