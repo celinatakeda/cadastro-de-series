@@ -25,10 +25,10 @@ O programa principal monta o cadastro em s√©rie, usando o banco de dados em mem√
 
 ## Criando o console
 
-dotnet new console -n DIO.Series
+dotnet new console -n Series
 
 ## Abrir o projeto
 
-code DIO.Series/
+code Series/
 
 
