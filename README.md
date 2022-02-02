@@ -8,7 +8,7 @@ A classe Serie herda da classe EntidadeBase.
 
 A classe SerieRepositorio implementa a interface IReposiotoio.
 
-A interface IRepositorio determina os métodos de listagem, retornar o Id, inserir, excluir, atualizar e proximoId garantindo, assim que as
+A interface IRepositorio determina os métodos de listagem, retornar o Id, inserir, excluir, atualizar e próximo Id garantindo, assim que as
 classes que a herdarem tenham esses métodos.
 
 O programa principal monta o cadastro em série, usando o banco de dados em memória com o uso de lista da classse SerieRepositorio.
