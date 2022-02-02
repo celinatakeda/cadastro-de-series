@@ -1,0 +1,15 @@
+C:\curso\repositories\cadastro-de-series\Series\bin\Debug\net6.0\Series.exe
+C:\curso\repositories\cadastro-de-series\Series\bin\Debug\net6.0\Series.deps.json
+C:\curso\repositories\cadastro-de-series\Series\bin\Debug\net6.0\Series.runtimeconfig.json
+C:\curso\repositories\cadastro-de-series\Series\bin\Debug\net6.0\Series.dll
+C:\curso\repositories\cadastro-de-series\Series\bin\Debug\net6.0\ref\Series.dll
+C:\curso\repositories\cadastro-de-series\Series\bin\Debug\net6.0\Series.pdb
+C:\curso\repositories\cadastro-de-series\Series\obj\Debug\net6.0\Series.csproj.AssemblyReference.cache
+C:\curso\repositories\cadastro-de-series\Series\obj\Debug\net6.0\Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso\repositories\cadastro-de-series\Series\obj\Debug\net6.0\Series.AssemblyInfoInputs.cache
+C:\curso\repositories\cadastro-de-series\Series\obj\Debug\net6.0\Series.AssemblyInfo.cs
+C:\curso\repositories\cadastro-de-series\Series\obj\Debug\net6.0\Series.csproj.CoreCompileInputs.cache
+C:\curso\repositories\cadastro-de-series\Series\obj\Debug\net6.0\Series.dll
+C:\curso\repositories\cadastro-de-series\Series\obj\Debug\net6.0\ref\Series.dll
+C:\curso\repositories\cadastro-de-series\Series\obj\Debug\net6.0\Series.pdb
+C:\curso\repositories\cadastro-de-series\Series\obj\Debug\net6.0\Series.genruntimeconfig.cache
